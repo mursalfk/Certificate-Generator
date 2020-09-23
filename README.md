@@ -1,6 +1,6 @@
 **Don't Forget to star2: this repo**
 # Certificate-Generator
-This Code can create bulk amount of certificates in a fraction of :hourglass_flowing_sand: .
+This Code can create bulk amount of certificates in a fraction of :hourglass_flowing_sand: ..
 ## Prep. To Generate Certificates :blue_book::pencil2:
 - Just design your certificate
 - Determine the coordinates for the name to be placed on the certificate
