@@ -7,11 +7,11 @@ This Code can create bulk amount of certificates in a fraction of :hourglass_flo
 - Check Eveything
 - Keep the TTF file in the same folder
 - Keep .jpeg of certificate in the same folder
-- keep the .xlsx file in the same folder
+- keep the .xlsx file in te same folder
 - Make Sure the .xlsx file has following column in exact same shape:
   - Name
 # You are ready to run :heavy_check_mark:
-+ Type the following commnd in Git Bash or CMD in the same folder:
++ Type the following command in Git Bash or CMD in the same folder:
   + **_python certs.py_**
   
 # For Help
