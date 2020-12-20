@@ -1,6 +1,6 @@
 **Don't Forget to :star2: this repo**
 # Certificate-Generator
-This Code can create bulk amount of certificates in a fraction of :hourglass_flowing_sand: ..
+This Code cn create bulk amount of certificates in a fraction of :hourglass_flowing_sand: ..
 ## Prep. To Generate Certificates :blue_book::pencil2:
 - Just design your certificate
 - Determine the coordinates for the name to be placed on the certificate
@@ -21,7 +21,7 @@ For more help, refer to my article on Dev.to
 ## Get in Touch :link:
 * [Youtube](https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber)
 * [Facebook](www.faceb)
-* [LinedIn](https://www.linkedin.com/in/mursalfurqan/)
+* [LinkedIn](https://www.linkedin.com/in/mursalfurqan/)
 * [Medium](https://medium.com/@mursalfurqan)
 * [Dev.to](https://dev.to/mursalfk)
 * [Visit my website](mursalfurqan.com)
