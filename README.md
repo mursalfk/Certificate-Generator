@@ -11,7 +11,7 @@ This Code can create bulk amount of certificates in a fraction of :hourglass_flo
 - Make Sure the .xlsx file has following column in exact same shape:
   - Name
 # You are ready to run :heavy_check_mark:
-+ Type the following command in Git Bash or CMD in the same folder:
++ Type the following commnd in Git Bash or CMD in the same folder:
   + **_python certs.py_**
   
 # For Help
