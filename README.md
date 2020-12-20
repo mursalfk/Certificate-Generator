@@ -7,7 +7,7 @@ This Code can create bulk amount of certificates in a fraction of :hourglass_flo
 - Check Eveything
 - Keep the TTF file in the same folder
 - Keep .jpeg of certificate in the same folder
-- keep the .xlsx file in te same folder
+- keep the .xlsx file in the same folder
 - Make Sure the .xlsx file has following column in exact same shape:
   - Name
 # You are ready to run :heavy_check_mark:
@@ -21,7 +21,7 @@ For more help, refer to my article on Dev.to
 ## Get in Touch :link:
 * [Youtube](https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber)
 * [Facebook](www.faceb)
-* [LinkedIn](https://www.linkedin.com/in/mursalfurqan/)
+* [LinedIn](https://www.linkedin.com/in/mursalfurqan/)
 * [Medium](https://medium.com/@mursalfurqan)
 * [Dev.to](https://dev.to/mursalfk)
 * [Visit my website](mursalfurqan.com)
