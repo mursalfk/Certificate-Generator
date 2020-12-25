@@ -7,7 +7,7 @@ This Code cn create bulk amount of certificates in a fraction of :hourglass_flow
 - Check Eveythin
 - Keep the TTF file in the same folder
 - Keep .jpeg of certificate in the same folder
-- keep the .xlsx file in the same folder
+- keep the .xlsx file in the same fold
 - Make Sure the .xlsx file has following column in exact same shape:
   - Name
 # You are ready to run :heavy_check_mark:
