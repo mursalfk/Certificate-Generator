@@ -4,7 +4,7 @@ This Code cn create bulk amount of certificates in a fraction of :hourglass_flow
 ## Prep. To Generate Certificates :blue_book::pencil2:
 - Just design your certificat
 - Determine the coordinates for the name to be placed on the certificate
-- Check Eveythin
+- Check Eveything
 - Keep the TTF file in the same folder
 - Keep .jpeg of certificate in the same folder
 - keep the .xlsx file in the same fold
